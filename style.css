@@ -1,0 +1,59 @@
+#navbar
+{
+	background-color:rgba(212, 184, 17, 0.78);
+	overflow: auto;
+	border-radius: 8px;
+}
+#navbar li{
+	float: left;
+	list-style-type: none;
+	padding: 5px;
+	margin: 3px;
+	border-radius: 15px;
+}
+#navbar li a{
+	padding: 5px;
+	text-decoration: none; 
+
+}
+#navbar li a:hover
+{
+	background-color: grey;
+}
+#navbar ul
+{
+	float: right;
+}
+#navbar img
+{
+	margin-left: 15px;
+	margin-top: 3px; 
+}
+#coffee{
+	display: inline;
+	overflow: auto;
+}
+#logo{
+	width: 65px;
+	height: 65px;
+}
+.type{
+	align-content: center;
+	width: 32%;
+	border: 3px solid black;
+	display: inline-block;
+	overflow: auto;
+}
+.type h2{
+	text-align: center;
+}
+.type p{
+	text-align: center;
+}
+.type img{
+	width: 90%;
+	margin-left: 5%; 
+}
+body{
+	background-color: rgba(212, 184, 17, 0.78);
+}
